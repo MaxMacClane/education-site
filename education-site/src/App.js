@@ -25,6 +25,3 @@ function App() {
 export default App;
 
 
-// dertt
-// new test
-// second new test
